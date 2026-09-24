@@ -1,0 +1,4 @@
+PM100D  SN:P0012697  Firmware: 2.4.0 -- Sensor: S302C  SN:151417
+Wave 1064nm	Range Auto	Sens 300,33E-3 V/W	Zero -319,59E-6 V
+PM100D  SN:P0012697  Firmware: 2.4.0 -- Sensor: S302C  SN:151417
+Wave 1064nm	Range Auto	Sens 300,33E-3 V/W	Zero -319,59E-6 V
